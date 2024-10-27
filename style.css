@@ -1,0 +1,22 @@
+/*
+PALETA CORES
+fundo gelo: #CCCCCC
+amarelo: #FECD23
+branco escrito: #FFFFFF
+roxo escuro: #1E0C21
+roxo claro: #641F70
+azul escuro: #342988
+azul medio: #2738DB
+azul medio claro: #3D5DEF
+azul claro: #73CDFF
+botao escuro: #1D0C20
+*/
+
+body {
+    background-color: #CCCCCC;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
+    font-size: 0.85rem;
+    
+}
+
