@@ -1,1 +1,9 @@
-# Projeto_Enquete
+## Projeto Enquete
+
+Assuntos abordados no módulo:
+- Criação de um quadro kanban no GitHub
+- HTML básico
+- CSS básico
+- Responsividade
+
+Projeto consiste em reproduzir uma imagem de referência de uma página em HTML e CSS.
