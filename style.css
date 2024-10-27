@@ -20,3 +20,19 @@ body {
     
 }
 
+.container {
+    background-color: #1E0C21;
+    background-image: linear-gradient(to bottom, #1E0C21, #641F70);
+    margin: auto;
+    width: 600px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 1rem 1.5rem;
+}
+
+.header-tittle {
+    color: #FECD23;
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
