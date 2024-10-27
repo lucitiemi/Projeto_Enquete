@@ -20,6 +20,18 @@ body {
     
 }
 
+input {
+    width: 75%;
+    border: none;
+    border-radius: 3px;
+    padding: 0.4rem;
+    margin: 9px;
+}
+input:focus {
+    outline: none;
+    box-shadow: 0 0 8px #CCCCCC;
+}
+
 .container {
     background-color: #1E0C21;
     background-image: linear-gradient(to bottom, #1E0C21, #641F70);
@@ -35,4 +47,23 @@ body {
     font-size: 1.4rem;
     font-weight: 500;
     margin-bottom: 2rem;
+}
+
+.content {
+    background-color: #641F70;
+    background-image: linear-gradient(to bottom, #641F70, #1E0C21);
+    border-radius: 7px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.content-top {
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+
+.footer {
+    font-size: 0.7rem;
 }
