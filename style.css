@@ -70,7 +70,7 @@ button:hover{
     background-image: linear-gradient(to bottom, #641F70, #1E0C21);
     border-radius: 7px;
     margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     padding: 1rem;
 }
 
@@ -108,4 +108,26 @@ button:hover{
 
 .footer {
     font-size: 0.7rem;
+}
+
+@media screen and (max-width: 650px){
+    html {
+        font-size: 14px;
+    }
+    input {
+        width: 95%;
+    }
+    .cards-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card-ext, .card-int {
+        box-sizing: border-box;
+    }
+    .container {
+        width: 95%;
+    }
+    .content {
+        padding: 0.5rem;
+    }
 }
