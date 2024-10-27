@@ -32,6 +32,22 @@ input:focus {
     box-shadow: 0 0 8px #CCCCCC;
 }
 
+img {
+    width: 100%;
+}
+
+button {
+    background-color: #1D0C20;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #3a3737;
+}
+
 .container {
     background-color: #1E0C21;
     background-image: linear-gradient(to bottom, #1E0C21, #641F70);
@@ -63,6 +79,32 @@ input:focus {
     font-weight: 400;
     margin-bottom: 1.5rem;
 }
+
+.cards-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-ext {
+    background-color: #2738DB;
+    background-image: linear-gradient(to bottom, #2738DB, #342988);
+    border-radius: 6px;
+    margin: 0.8rem;
+    width: 150px;
+    
+}
+
+
+.card-int {
+    background-color: #3D5DEF;
+    background-image: linear-gradient(to bottom, #3D5DEF, #73CDFF);
+    margin: 0.5rem;
+    font-size: 1rem;
+    padding-top: 1.2rem;
+    padding-bottom: 0.5rem;
+}
+
+
 
 .footer {
     font-size: 0.7rem;

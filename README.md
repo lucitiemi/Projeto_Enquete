@@ -7,3 +7,5 @@ Assuntos abordados no módulo:
 - Responsividade
 
 Projeto consiste em reproduzir uma imagem de referência de uma página em HTML e CSS.
+
+link Project GitHub: https://github.com/users/lucitiemi/projects/3
